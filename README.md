@@ -1,4 +1,4 @@
-# MacAulayLab RNAseq2 Posthemorrhagic hydrocephalus #
+# MacAulayLab RNAseq2 - Posthemorrhagic hydrocephalus #
 
 ## Raw data analysis - Library Build, Mapping and Quantification ##
 *Remember* rewrite file_names and folder_names suitable for your pipeline.
