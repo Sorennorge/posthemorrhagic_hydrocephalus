@@ -1,5 +1,10 @@
 # MacAulayLab RNAseq2 - Posthemorrhagic hydrocephalus #
-
+The work and scripts are done by the MacAulay Lab.\
+All programs used are free and open-source.
+In the interest of open science and reproducibility, all data and source code used in our research is provided here.\
+Feel free to copy and use code, but make sure to cite: XXXXXXXX (coming soon)\
+*Remember* rewrite file_names and folder_names suitable for your pipeline.\
+Note: Many of the tables output have converted dot to comma for danish excel annotation.
 ## Raw data analysis - Library Build, Mapping and Quantification ##
 *Remember* rewrite file_names and folder_names suitable for your pipeline.
 ### RNA-STAR and RSEM Library build and indexing ###
