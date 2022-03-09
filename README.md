@@ -16,15 +16,16 @@ Use:\
 Requirements:\
 Biomart of Rnor6.0 with Attributes: Gene stable ID & Gene name\
 Use:\
-3.RSEM_to_count_tables.py
+3.Create_count_tables.py
 
-### Get overview tables ###
+### Get overview tables - and differential expressed genes ###
 Use:\
 4.Create_overview_Table.py
 
-### Differential expressed genes ###
+### Collect immune information and seperate into receptors and non-receptors ###
 Use:\
-5.Differential_expressed.py
+5.1.Information_table_list
+5.2.Immune_analysis
 
 ### Create supplementary tables ###
 Use:\
